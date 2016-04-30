@@ -6,6 +6,7 @@ Blade
 Blossom
 Bracelet
 Bracer
+Broach
 Chains
 Chalice
 Charm
