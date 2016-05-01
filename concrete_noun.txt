@@ -6,6 +6,7 @@ Blade
 Blossom
 Bracelet
 Bracer
+Broach
 Chains
 Chalice
 Charm
@@ -18,14 +19,19 @@ Dagger
 Diamond
 Elixir
 Emerald
+Fetish
+Flail
 Gauntlet
 Gem
 Gemstone
 Hammer
+Halberd
 Helm
+Jewel
 Idol
 Knife
 Lantern
+Mace
 Mask
 Mirror
 Necklace
@@ -39,6 +45,7 @@ Rune
 Sabre
 Scepter
 Shard
+Skull
 Song
 Spear
 Staff
