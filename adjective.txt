@@ -24,6 +24,7 @@ Horrid
 Icarian
 Incandescent
 Infernal
+Impenetrable
 Lunar
 Lucky
 Mesmerizing
@@ -42,5 +43,6 @@ Swift
 Twilight
 Unbreakable
 Unyielding
+Vicious
 Warding
 Windfury

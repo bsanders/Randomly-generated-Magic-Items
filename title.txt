@@ -1,5 +1,6 @@
 Aeromancer
 Alchemist
+Allomancer
 Aquamancer
 Archmage
 Assassin
@@ -20,6 +21,7 @@ Dragonslayer
 Druid
 Electromancer
 Enchanter
+Empath
 Fanatic
 Farslayer
 Gargoyle
