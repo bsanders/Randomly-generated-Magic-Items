@@ -120,6 +120,7 @@ the Vampire
 the Werebeast
 the Werewolf
 the Wight
+the Winds
 Thought
 Townsaving
 Treachery

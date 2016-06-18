@@ -20,6 +20,7 @@ Dragonslayer
 Druid
 Electromancer
 Enchanter
+Fanatic
 Farslayer
 Gargoyle
 Geomancer
@@ -41,6 +42,7 @@ Martyr
 Mentalist
 Miracle-worker
 Monster
+Namer
 Oathbreaker
 Ogre
 Oracle
@@ -72,8 +74,9 @@ Traitor
 Tyrant
 Vampire
 Warlord
-Warrior
+Warlock
 Warrior
 Wayfinder
 Woundhealer
+Zealot
 Zephyr
