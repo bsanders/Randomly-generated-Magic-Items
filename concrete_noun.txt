@@ -44,6 +44,7 @@ Lance
 Mace
 Mask
 Mirror
+Morningstar
 Necklace
 Orb
 Potion
