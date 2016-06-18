@@ -69,6 +69,7 @@ Thorns
 Tome
 Torch
 Totem
+Trident
 Truename
 Veil
 Wand
