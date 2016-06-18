@@ -14,6 +14,7 @@ Breath
 Broach
 Buckler
 Cap
+Cestus
 Chains
 Chalice
 Charm
@@ -31,6 +32,7 @@ Emerald
 Fang
 Fetish
 Flail
+Flask
 Gauntlet
 Gem
 Gemstone
