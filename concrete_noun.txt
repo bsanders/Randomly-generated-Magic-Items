@@ -1,3 +1,4 @@
+Alter
 Amulet
 Armband
 Armor
@@ -7,6 +8,7 @@ Blossom
 Boots
 Bracelet
 Bracer
+Breath
 Broach
 Buckler
 Cap

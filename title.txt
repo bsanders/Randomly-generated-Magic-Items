@@ -8,6 +8,7 @@ Beastlord
 Beastmaster
 Berserker
 Blackguard
+Bodyguard
 Cleric
 Corsair
 Cryomancer
@@ -22,6 +23,7 @@ Enchanter
 Farslayer
 Gargoyle
 Geomancer
+Goblin
 Gryphon
 Heretic
 Hierophant

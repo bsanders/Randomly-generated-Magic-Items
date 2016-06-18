@@ -26,6 +26,7 @@ Fire
 Flame
 Freezing
 Fury
+Giantkin
 Glory
 Growth
 Healing
@@ -89,6 +90,7 @@ the Angel
 the Banshee
 the Centaur
 the Colossus
+the Crypt
 the Demon
 the Desert
 the Dragon
