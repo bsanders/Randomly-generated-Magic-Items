@@ -42,6 +42,7 @@ Knife
 Lantern
 Lance
 Mace
+Mantle
 Mask
 Mirror
 Morningstar
@@ -63,6 +64,7 @@ Song
 Spear
 Staff
 Statue
+Stone
 Sword
 Talisman
 Thorns
