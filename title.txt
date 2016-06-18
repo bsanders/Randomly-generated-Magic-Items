@@ -73,6 +73,7 @@ Townsaver
 Traitor
 Tyrant
 Vampire
+Warder
 Warlord
 Warlock
 Warrior
