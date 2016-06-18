@@ -16,6 +16,7 @@ Delerium
 Desire
 Despair
 Destruction
+Disguise
 Domination
 Doom
 Dragonslaying
@@ -43,8 +44,9 @@ Imprisonment
 Incineration
 Insanity
 Inspiration
-Invulnerability
+Invigoration
 Invisibility
+Invulnerability
 Justice
 Life
 Light
