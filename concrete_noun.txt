@@ -31,7 +31,9 @@ Gem
 Gemstone
 Gloves
 Hammer
+Halberd
 Helm
+Jewel
 Idol
 Knife
 Lantern
@@ -52,6 +54,7 @@ Sabre
 Scepter
 Shard
 Shield
+Skull
 Song
 Spear
 Staff

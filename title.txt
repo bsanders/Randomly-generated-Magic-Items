@@ -11,6 +11,7 @@ Blackguard
 Cleric
 Corsair
 Cryomancer
+Demagogue
 Demon
 Diviner
 Doomgiver
@@ -26,6 +27,7 @@ Heretic
 Hierophant
 Homunculus
 Hunter
+Iconoclast
 Illusionist
 Infiltrator
 King

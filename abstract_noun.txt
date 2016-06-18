@@ -2,6 +2,7 @@ Blindness
 Bravery
 Burning
 Burrowing
+Calm
 Conjuration
 Darkness
 Dawn
@@ -50,6 +51,7 @@ Madness
 Malice
 Mercy
 Midnight
+Mindfulness
 Obedience
 Peace
 Petrification
@@ -119,10 +121,12 @@ the Wight
 Thought
 Townsaving
 Treachery
+Triumph
 True Sight
 Twilight
 Valor
 Vengeance
+Vigor
 Void
 Warding
 Wayfinding

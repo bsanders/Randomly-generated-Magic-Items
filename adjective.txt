@@ -18,6 +18,7 @@ Fae
 Fire
 Flaming
 Glowing
+Heretical
 Holy
 Horrid
 Icarian
