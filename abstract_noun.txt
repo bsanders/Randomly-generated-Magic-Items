@@ -20,6 +20,7 @@ Dreaming
 Durability
 Dusk
 Evocation
+Escape
 Fire
 Flame
 Freezing
@@ -44,6 +45,7 @@ Light
 Lightlessness
 Lightning
 Love
+Luck
 Madness
 Malice
 Mercy
@@ -54,10 +56,12 @@ Petrification
 Piercing
 Planeswalking
 Prophecy
+Purity
 Rage
 Resurrection
 Retribution
 Seeking
+Serenity
 Shadow
 Shadowbinding
 Shattering
@@ -78,9 +82,11 @@ Stealth
 Stonecutting
 Striking
 Sundering
+Terror
 the Angel
 the Banshee
 the Centaur
+the Colossus
 the Demon
 the Desert
 the Dragon
@@ -121,6 +127,7 @@ Void
 Warding
 Wayfinding
 Weightlessness
+Whispers
 Wind
 Winter
 Wisdom

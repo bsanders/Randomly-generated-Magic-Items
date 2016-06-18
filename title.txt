@@ -9,6 +9,7 @@ Beastmaster
 Berserker
 Blackguard
 Cleric
+Corsair
 Cryomancer
 Demon
 Diviner
@@ -42,9 +43,11 @@ Oracle
 Orc
 Paladin
 Phoenix
+Pirate
 Planeswalker
 Prisoner
 Prophet
+Psychic
 Puppetmaster
 Pyromancer
 Runemaster
