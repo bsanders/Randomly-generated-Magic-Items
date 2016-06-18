@@ -1,4 +1,5 @@
 Balance
+Binding
 Blindness
 Bravery
 Burning
@@ -21,6 +22,7 @@ Dragonslaying
 Dreaming
 Durability
 Dusk
+Enlightenment
 Evocation
 Escape
 Fire
@@ -40,6 +42,7 @@ Impact
 Imprisonment
 Incineration
 Insanity
+Inspiration
 Invulnerability
 Invisibility
 Justice
@@ -54,6 +57,7 @@ Malice
 Mercy
 Midnight
 Mindfulness
+Mud
 Obedience
 Peace
 Petrification
@@ -62,6 +66,7 @@ Planeswalking
 Prophecy
 Purity
 Rage
+Refreshment
 Resurrection
 Retribution
 Seeking
@@ -92,6 +97,7 @@ the Banshee
 the Centaur
 the Colossus
 the Crypt
+the Damned
 the Demon
 the Desert
 the Dragon
@@ -113,8 +119,10 @@ the Homunculus
 the Lich
 the Mermaid
 the Monster
+the Oaf
 the Ogre
 the Orc
+the Sea
 the Serpent
 the Seven-pointed Star
 the Swamp

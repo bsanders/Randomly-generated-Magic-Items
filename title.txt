@@ -5,6 +5,7 @@ Aquamancer
 Archmage
 Assassin
 Avenger
+Bannerman
 Beastlord
 Beastmaster
 Berserker
@@ -42,6 +43,7 @@ Lifetaker
 Lionheart
 Martyr
 Mentalist
+Mentor
 Miracle-worker
 Monster
 Namer
@@ -61,6 +63,7 @@ Pyromancer
 Runemaster
 Seer
 Seraph
+Servant
 Shaman
 Shieldbreaker
 Sightblinder
@@ -69,6 +72,7 @@ Soulcutter
 Soulstealer
 Stonecutter
 Summoner
+Swashbuckler
 Thief
 Titan
 Townsaver

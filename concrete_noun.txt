@@ -3,6 +3,7 @@ Amulet
 Armband
 Armor
 Axe
+Banner
 Blade
 Blossom
 Boots
@@ -27,6 +28,7 @@ Dagger
 Diamond
 Elixir
 Emerald
+Fang
 Fetish
 Flail
 Gauntlet
@@ -36,6 +38,7 @@ Gloves
 Hammer
 Halberd
 Helm
+Holy Symbol
 Jewel
 Idol
 Knife
@@ -50,12 +53,14 @@ Necklace
 Orb
 Potion
 Polearm
+Prayer
 Prism
 Ring
 Rod
 Ruby
 Rune
 Sabre
+Sash
 Scepter
 Shard
 Shield
@@ -75,4 +80,5 @@ Trident
 Truename
 Veil
 Wand
+Whetstone
 Whip
