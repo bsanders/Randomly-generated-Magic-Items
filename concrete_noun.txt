@@ -6,6 +6,7 @@ Axe
 Banner
 Blade
 Blossom
+Book
 Boots
 Bow
 Bracelet
@@ -14,6 +15,7 @@ Breath
 Broach
 Buckler
 Cap
+Cestus
 Chains
 Chalice
 Charm
@@ -31,6 +33,7 @@ Emerald
 Fang
 Fetish
 Flail
+Flask
 Gauntlet
 Gem
 Gemstone

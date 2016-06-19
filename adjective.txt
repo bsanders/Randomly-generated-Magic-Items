@@ -1,6 +1,7 @@
 Alchemical
 Antimagic
 Astral
+Blazing
 Blinding
 Burning
 Celestial
