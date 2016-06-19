@@ -37,6 +37,7 @@ Gemstone
 Gloves
 Hammer
 Halberd
+Harp
 Helm
 Holy Symbol
 Jewel
@@ -44,6 +45,7 @@ Idol
 Knife
 Lantern
 Lance
+Lute
 Mace
 Mantle
 Mask
@@ -51,6 +53,7 @@ Mirror
 Morningstar
 Necklace
 Orb
+Pipes
 Potion
 Polearm
 Prayer
