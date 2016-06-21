@@ -1,8 +1,10 @@
+Adept
 Aeromancer
 Alchemist
 Allomancer
 Aquamancer
 Archmage
+Archer
 Assassin
 Avenger
 Bannerman
@@ -25,6 +27,7 @@ Enchanter
 Empath
 Fanatic
 Farslayer
+Friar
 Gargoyle
 Geomancer
 Goblin
@@ -46,6 +49,7 @@ Mentalist
 Mentor
 Miracle-worker
 Monster
+Mystic
 Namer
 Oathbreaker
 Ogre
@@ -60,13 +64,18 @@ Prophet
 Psychic
 Puppetmaster
 Pyromancer
+Ranger
+Rogue
 Runemaster
+Scholar
+Scout
 Seer
 Seraph
 Servant
 Shaman
 Shieldbreaker
 Sightblinder
+Sorcerer
 Soulbinder
 Soulcutter
 Soulstealer
@@ -79,6 +88,7 @@ Townsaver
 Traitor
 Tyrant
 Vampire
+Vigilante
 Warder
 Warlord
 Warlock

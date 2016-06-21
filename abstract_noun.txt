@@ -48,6 +48,7 @@ Invigoration
 Invisibility
 Invulnerability
 Justice
+Ki
 Life
 Light
 Lightlessness
@@ -69,6 +70,7 @@ Prophecy
 Purity
 Rage
 Refreshment
+Rending
 Resurrection
 Retribution
 Seeking
@@ -96,7 +98,9 @@ Sundering
 Terror
 the Angel
 the Banshee
+the Brute
 the Centaur
+the Champion
 the Colossus
 the Crypt
 the Damned
@@ -119,6 +123,7 @@ the Gremlin
 the Gryphon
 the Homunculus
 the Lich
+the Master
 the Mermaid
 the Monster
 the Oaf

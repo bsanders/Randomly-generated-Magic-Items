@@ -15,6 +15,7 @@ Dire
 Disturbing
 Divine
 Dread
+Drunken
 Emerald
 Entangling
 Ephemeral
@@ -51,6 +52,7 @@ Swift
 Twilight
 Unbreakable
 Unyielding
+Vexxing
 Vicious
 Warding
 White
