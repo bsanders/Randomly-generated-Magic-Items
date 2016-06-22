@@ -1,3 +1,4 @@
+Acrobatics
 Balance
 Binding
 Blindness
@@ -5,6 +6,8 @@ Bravery
 Burning
 Burrowing
 Calm
+Chaos
+Clairvoyance
 Conjuration
 Darkness
 Dawn
@@ -28,10 +31,12 @@ Evocation
 Escape
 Fire
 Flame
+Force
 Freezing
 Fury
 Giantkin
 Glory
+Grandstanding
 Growth
 Healing
 Heroism
@@ -61,16 +66,20 @@ Mercy
 Midnight
 Mindfulness
 Mud
+Negative-energy
 Obedience
 Peace
+Petitioning
 Petrification
 Piercing
 Planeswalking
+Positive-energy
 Prophecy
 Purity
 Rage
 Refreshment
 Rending
+Resolve
 Resurrection
 Retribution
 Seeking
@@ -95,6 +104,7 @@ Stealth
 Stonecutting
 Striking
 Sundering
+Telepathy
 Terror
 the Angel
 the Banshee
@@ -107,6 +117,7 @@ the Damned
 the Demon
 the Desert
 the Dragon
+the Dunes
 the Dwarf
 the Elf
 the Elements
@@ -127,6 +138,7 @@ the Master
 the Mermaid
 the Monster
 the Oaf
+the Oaks
 the Ogre
 the Orc
 the Sea
@@ -135,19 +147,23 @@ the Seven-pointed Star
 the Swamp
 the Titan
 the Troll
+the Unseelie
 the Vampire
 the Werebeast
 the Werewolf
 the Wight
 the Winds
 Thought
+Time
 Townsaving
+Transformation
 Treachery
 Triumph
 True Sight
 Twilight
 Valor
 Vengeance
+Vermin
 Vigor
 Void
 Warding
