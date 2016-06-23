@@ -1,9 +1,10 @@
-Alter
+Altar
 Amulet
 Armband
 Armor
 Axe
 Banner
+Bastard sword
 Blade
 Blossom
 Book
@@ -23,6 +24,7 @@ Circlet
 Claw
 Cloak
 Club
+Crossbow
 Crown
 Crystal
 Cutlass
@@ -43,11 +45,17 @@ Halberd
 Harp
 Helm
 Holy Symbol
+Javelin
 Jewel
 Idol
+Kama
+Khopesh
 Knife
+Kukri
 Lantern
 Lance
+Long sword
+Lucerne Hammer
 Lute
 Mace
 Mantle
@@ -55,22 +63,34 @@ Mask
 Mirror
 Morningstar
 Necklace
+Net
 Orb
+Pick
 Pipes
 Potion
 Polearm
 Prayer
 Prism
+Rapier
 Ring
 Rod
 Ruby
 Rune
 Sabre
+Sap
 Sash
 Scepter
+Scimitar
+Scythe
 Shard
+Sheath
+Sickle
 Shield
+Shiv
+Shortsword
+Shuriken
 Skull
+Sling
 Song
 Spear
 Staff
@@ -86,5 +106,6 @@ Trident
 Truename
 Veil
 Wand
+Warhammer
 Whetstone
 Whip
