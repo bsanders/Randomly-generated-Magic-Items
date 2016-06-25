@@ -8,6 +8,7 @@ Burrowing
 Calm
 Chaos
 Clairvoyance
+Confusion
 Conjuration
 Darkness
 Dawn
