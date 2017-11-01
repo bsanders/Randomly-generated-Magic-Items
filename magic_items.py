@@ -1,3 +1,6 @@
+# /usr/bin/env python
+
+from __future__ import print_function
 from random import seed, choice, randint
 
 seed()
